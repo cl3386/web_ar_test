@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/marker_abyss.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/web_ar_test.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
